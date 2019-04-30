@@ -158,14 +158,8 @@ headerlinks:
 
 # FOOTER LENKER
 footerlinks:
--   linkText: Brukerhåndbøker
-    linkUrl: http://xeedbikes.no/
-
--   linkText: Rammegeometri
-    linkUrl: http://xeedbikes.no/
-
 -   linkText: Kontakt oss
-    linkUrl: http://xeedbikes.no/
+    linkUrl: https://form.socialboards.com/sport1/sykkelsupport
 
 # FOOTER SOSIALE LENKER
 footerSocialLinks:
